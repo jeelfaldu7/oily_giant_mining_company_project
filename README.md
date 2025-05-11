@@ -59,4 +59,5 @@ I applied the Bootstrapping technique with 1000 samples to stimulate profit dist
    -  Highest potential profit
 
 ## 🤝 Credits
-This project was created as part of the TripleTen Data Science program. Special thanks to: TripleTen instructors and peers for ongoing support and feedback
+This project was created as part of the TripleTen Data Science program. Special thanks to: 
+   - TripleTen instructors and peers for ongoing support and feedback
