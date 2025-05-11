@@ -24,6 +24,7 @@ I worked with synthetic data from three regions:
 - `geo_data_0.csv`
 - `geo_data_1.csv`
 - `geo_data_2.csv`
+
 Each dataset includes:
 - `id`: Unique well identifier
 - `f0`, `f1`, `f2`: Geological features
